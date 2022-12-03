@@ -4,5 +4,5 @@ Security and IT stuff enthusiast 👨🏻‍💻
 Doing calisthenics and gymnastics in my free time ⛹🏻‍♀️ 
 
 
-Proud student of Appiled Computer Science at Mikołaj Kopernik's University in Toruń 👨🏼‍🎓 
+Proud student of Applied Computer Science at Mikołaj Kopernik's University in Toruń 👨🏼‍🎓 
 Currently learning Linux, Git, Python and JavaScript 🐧🐙🐍🟨 
